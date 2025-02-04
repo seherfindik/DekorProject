@@ -12,6 +12,6 @@ body{
     display: flex;
 }
 
-.main li{
+.main ul li{
     display: flex;
 }
